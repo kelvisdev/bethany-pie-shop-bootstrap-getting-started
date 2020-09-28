@@ -17,3 +17,9 @@ body {
   height: 40vh;
   background-size: cover;
 }
+
+.jumbotron-other {
+  background: url('../images/carousel3.jpg') no-repeat fixed;
+  background-size: cover;
+}
+
